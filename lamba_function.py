@@ -1,3 +1,5 @@
+print('today's date is 17th dec')
+
 print("welcome ,narendra")
 
 print("Welcome to CICD Demo")
